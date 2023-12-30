@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/mycampusdbserver/databases/MyCampus",
+      "type": "mssql.azure",
+      "connectionId": "MyCampusDB",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
