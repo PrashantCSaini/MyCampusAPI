@@ -15,7 +15,7 @@ namespace MyCampus
             {
                 EnableSsl = true,
                 UseDefaultCredentials = false,
-                Credentials = new NetworkCredential("your.email@live.com", "your password")
+                Credentials = new NetworkCredential("sainipras123@gmail.com", "your password")
             };
 
             return client.SendMailAsync(
