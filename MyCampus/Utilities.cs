@@ -14,7 +14,7 @@ namespace MyCampus
 
         public void feature2()
         {
-            Console.WriteLine("Feature1");
+            Console.WriteLine("Feature2");
         }
     }
 }
