@@ -11,5 +11,10 @@ namespace MyCampus
         {
             Console.WriteLine("Feature1");
         }
+
+        public void feature2()
+        {
+            Console.WriteLine("Feature1");
+        }
     }
 }
