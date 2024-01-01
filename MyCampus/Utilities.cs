@@ -16,5 +16,9 @@ namespace MyCampus
         {
             Console.WriteLine("Feature2");
         }
+        public void feature3()
+        {
+            Console.WriteLine("Feature3 by C S Saini");
+        }
     }
 }
