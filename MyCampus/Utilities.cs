@@ -7,5 +7,9 @@ namespace MyCampus
 {
     public class Utilities
     {
+        public void feature1()
+        {
+            Console.WriteLine("Feature1");
+        }
     }
 }
